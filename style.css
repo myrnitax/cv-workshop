@@ -1,0 +1,125 @@
+body {
+    font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    margin: 1.5rem;
+    background-color: #161B22;
+}
+
+header {
+    background-color: #0D1117;
+    padding: 1.5rem;
+    color: white;
+}
+
+.button {
+    background-color: #238636;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+}
+
+main {
+    display: flex;
+    margin: 0;
+    width: 70%;
+    float: left;
+    background-color: #0D1117;
+    color: white;
+}
+
+#explab {
+    margin-block-start: -15px;
+    margin-block-end: 0px;
+}
+
+#col-iz {
+    padding: 0;
+    width: 100%;
+    margin: 1.5rem;
+    line-height: 4rem;
+
+}
+
+#titleexp1,
+#titleexp2,
+#titleexp3,
+#titleexp4 {
+    color: #58A6FF;
+}
+
+
+
+#sec-art-1,
+#sec-art-2,
+#sec-art-3,
+#sec-art-4 {
+    line-height: 1.1rem;
+    color: #C9D1D9;
+    ;
+}
+
+h2 {
+    line-height: 3rem;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+
+}
+
+aside {
+    background-color: #238636;
+    width: 30%;
+    float: right;
+}
+
+#education {
+    padding: 1.5rem;
+    margin: 1rem;
+}
+
+#linkedin-link {
+    color: rgb(45, 44, 44);
+}
+
+#contact {
+    padding: 1.5rem;
+    margin: 1rem;
+}
+
+#skills {
+    padding: 1.5rem;
+    margin: 1rem;
+    line-height: 1.39
+}
+
+#ed-title {
+    color: #FFFFFF;
+
+}
+
+#cntac-title {
+    color: #FFFFFF;
+}
+
+#skll-title {
+    color: #FFFFFF;
+}
+
+
+
+hr {
+    color: #2F353D;
+}
+
+label {
+    width: 200px;
+}
+
+article {
+    flex-grow: inherit;
+    line-height: 1.47
+}
